@@ -1,2 +1,2 @@
-# hellow-world
-first github repository: hellow world
+# hellow-world (edits)
+first github repository: hellow world (edits)
